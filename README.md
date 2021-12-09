@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:5468FF,100:a82da8&height=200&section=header&text=나래하제 클랜&fontSize=70&fontColor=FFFFFF&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:5468FF,100:a82da8&height=200&section=header&text=&fontSize=70&fontColor=FFFFFF&fontAlignY=40)
 
 
 
