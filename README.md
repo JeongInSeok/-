@@ -24,7 +24,7 @@
 
   Alt + Shift + 위 아래 방향키 : 같은 코드 여러줄 필요할 때 한 줄 통체로 복사하는거 
 
-  
+  <br>
 
   스니펫 Json 파일 : 자주 입력하는 코드 
 
@@ -32,13 +32,15 @@
 
   https://snippet-generator.app/  를 이용하면 코드를 JSON 스니펫 형식으로 쉽게 바꿔줌 
 
-  
+  <br>
 
 - 깃이그노어 자동생성 해주는 사이트 : https://www.toptal.com/developers/gitignore
 
-  
+  <br>
 
 
+
+<hr>
 
 ### 이 공간의 목적
 
@@ -46,7 +48,8 @@
 
   
 
-  
+
+<hr>
 
 ### 스터디 진행 방향
 
@@ -54,7 +57,7 @@
 
   
 
-
+<hr>
 
 ### 스터디 일정
 
@@ -86,7 +89,7 @@
 
 
 
- 
+ <hr>
 
 ### 참여 멤버
 [<a href="https://github.com/JeongInSeok"><img src='https://avatars.githubusercontent.com/u/64317025?v=4' alt='github' height='80' style="border-radius: 70%;"></a>](https://github.com/JeongInSeok) [<a href='https://github.com/S-Series'><img src='https://avatars.githubusercontent.com/u/63185402?v=4' alt='github' height='80' style="border-radius: 70%;"></a>](https://github.com/SSeries)  [<a href='https://github.com/Choijaehun1'><img src='https://avatars.githubusercontent.com/u/95850493?v=4' alt='github' height='80' style="border-radius: 70%;"></a>](https://github.com/Choijaehun1)  
