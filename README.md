@@ -42,13 +42,13 @@
 | :---: | :--------: | :-------------: |
 | 1주차 | 2021.00.00 | 재귀/브루트포스 |
 | 2주차 | 2021.00.00 |      정렬       |
-| 2주차 | 2021.07.24 | DP(동적 계획법) |
-| 3주차 | 2021.07.28 |      스택       |
-| 3주차 | 2021.07.31 |     큐, 덱      |
-| 4주차 | 2021.08.04 |     그리디      |
-| 4주차 | 2021.08.07 |     BFS?DFS     |
-| 5주차 | 2021.08.11 |    백트래킹     |
-| 5주차 | 2021.08.14 |    이분탐색     |
+| 2주차 | 2021.00.00 | DP(동적 계획법) |
+| 3주차 | 2021.00.00 |      스택       |
+| 3주차 | 2021.00.00 |     큐, 덱      |
+| 4주차 | 2021.00.00 |     그리디      |
+| 4주차 | 2021.00.00 |     BFS?DFS     |
+| 5주차 | 2021.00.00 |    백트래킹     |
+| 5주차 | 2021.00.00 |    이분탐색     |
 |       |            |                 |
 |       |            |                 |
 |       |            |                 |
@@ -69,15 +69,16 @@
  
 
 ### 참여 멤버
-<a href="https://github.com/JeongInSeok/Study-NarehazeClan-/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=JeongInSeok/Study-NarehazeClan-"/>
+[<a href="https://github.com/JeongInSeok"><img src='https://avatars.githubusercontent.com/u/64317025?v=4' alt='github' height='80' style="border-radius: 70%;"></a>](https://github.com/JeongInSeok) [<a href='https://github.com/S-Series'><img src='https://avatars.githubusercontent.com/u/63185402?v=4' alt='github' height='80' style="border-radius: 70%;"></a>](https://github.com/SSeries)  [<a href='https://github.com/Choijaehun1'><img src='https://avatars.githubusercontent.com/u/95850493?v=4' alt='github' height='80' style="border-radius: 70%;"></a>](https://github.com/Choijaehun1)  
+
+
+
+
+
+<a href="https://github.com/JeongInSeok/Study-NarehazeClan-/graphs/contributors">  <img src="https://contrib.rocks/image?repo=JeongInSeok/Study-NarehazeClan-"/>
 </a>
 
 
 
 
-
-
-
-[<a href="https://github.com/JeongInSeok"><img src='https://avatars.githubusercontent.com/u/64317025?v=4' alt='github' height='40' style="border-radius: 70%;"></a>](https://github.com/JeongInSeok) [<a href='https://github.com/S-Series'><img src='https://avatars.githubusercontent.com/u/63185402?v=4' alt='github' height='40' style="border-radius: 70%;"></a>](https://github.com/SSeries)  
 
